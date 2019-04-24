@@ -6,8 +6,8 @@ Create a file called 'main.cc' including the following content
 #include <iostream>
 
 int main() {
-	std::cout << "Hello, World!" << std::endl;
-	return 0;
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
 }
 ```
 Using the g++ compiler, the file can be compiled by using
